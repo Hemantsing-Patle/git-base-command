@@ -4,3 +4,7 @@
 ## git log
 ## git log --all
 ## git commit -m "Commit Message"
+## git rebase
+## git squash
+## git branch -v
+## git checkout -b devops ---> Created DevOps Branch
