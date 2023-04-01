@@ -8,3 +8,8 @@
 ## git squash
 ## git branch -v
 ## git checkout -b devops ---> Created DevOps Branch
+## git branch -v 
+## git checkout main
+## git pull
+## git checkout my-feature-branch
+## git merge main
