@@ -111,7 +111,5 @@ What is .gitignore? 🚫
 What is Continuous Integration/Continuous Deployment (CI/CD)? 🔄🚀
 CI/CD is a practice where code changes are automatically built, tested, and deployed to production. It ensures frequent and reliable software releases.
 -----------------------------------------------------------------------------------------------------------------------------------------
-Feel free to dive deeper into these questions to gain a solid understanding of version control, Git, GitHub, and software development practices! 🌟👩‍💻👨‍💻
-
 Feel free to fork 🍴this 👨‍🍳 simple Angular code into your GitHub account click here. Take a peek and if you fancy it, go ahead and star the repository. Happy coding! 🤝
 -----------------------------------------------------------------------------------------------------------------------------------------
